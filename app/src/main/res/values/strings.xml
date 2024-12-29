@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Two Note</string>
+    <string name="recycle_bin">سطل زباله</string>
+    <string name="title">عنوان:</string>
+    <string name="details">متن یادداشت:</string>
+    <string name="save">ذخیره کردن</string>
+    <string name="cancel">انتفا</string>
+</resources>
